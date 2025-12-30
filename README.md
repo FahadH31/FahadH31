@@ -5,4 +5,4 @@
   <li> I enjoy working on backend and full-stack applications </li>
 </ul>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadH31&hide=stars,issues)
+![My GitHub stats](https://github-readme-stats-1-git-master-fahadh31s-projects.vercel.app/api?username=FahadH31&hide=stars,issues)
