@@ -1,8 +1,8 @@
 ## Hi there, I'm Fahad!
 
 <ul> 
-  <li> Currently entering my last semester at Ontario Tech University, graduating this <b>April 2026</b>! </li>
-  <li> Building a real estate service focused on AI-powered video processing for my Capstone project </li>
+  <li> Currently entering my last semester at Ontario Tech University, graduating <b>Summer 2026</b>! </li>
+  <li> Building a real estate service focused on AI-powered video analysis for my Capstone project </li>
   <li> Passionate about working on full-stack applications, but especially backend systems </li>
   <li> Feel free to get in touch via email (<a href = "">fahad.hussain2@ontariotechu.net</a>) or message me on <a href = https://www.linkedin.com/in/syedfahadh/>LinkedIn</a>!</li>
 </ul>
@@ -28,7 +28,7 @@
 [![photography_portfolio README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=photography_portfolio&t&bg_color=151B23&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&&hide_border=true)](https://github.com/FahadH31/photography_portfolio)
     </td>
     <td>
-			https://fahadh31.github.io/photography_portfolio/
+			https://fahadh31.github.io/photography_portfolio
 		</td>
   </tr>
 	<tr>
@@ -63,7 +63,3 @@
 		<td>https://railway-information-system.onrender.com/</td>
 	</tr>
 </table>
-
-
-<!-- Views -->
-![](https://komarev.com/ghpvc/?username=FahadH31&style=pixel)
