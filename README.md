@@ -5,4 +5,5 @@
   <li> I enjoy working on backend and full-stack applications </li>
 </ul>
 
-![My GitHub stats](https://github-readme-stats-1-git-master-fahadh31s-projects.vercel.app/api?username=FahadH31&hide=stars,issues)
+<img align="left" alt="Fahad's GitHub Stats" src="https://github-readme-stats-phi-three-26.vercel.app/api?username=FahadH31&hide=stars,issues&show_icons=true&hide_border=true&theme=github_dark"/>
+
