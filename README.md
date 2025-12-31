@@ -64,5 +64,5 @@
 	</tr>
 </table>
 
-<img src="https://fahadh31.goatcounter.com/count?p=/ghreadme">
+![Visitor Count](https://fahadh31.goatcounter.com/count?p=/ghreadme)
 
