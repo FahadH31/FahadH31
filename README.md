@@ -1,7 +1,5 @@
 ## Hi there, I'm Fahad!
 
-<img src="https://fahadh31.goatcounter.com/count?p=/ghreadme">
-
 <ul> 
   <li> Currently entering my last semester at Ontario Tech University, graduating <b>Summer 2026</b>! </li>
   <li> Building a real estate service focused on AI-powered video analysis for my Capstone project </li>
@@ -65,3 +63,6 @@
 		<td>https://railway-information-system.onrender.com/</td>
 	</tr>
 </table>
+
+<img src="https://fahadh31.goatcounter.com/count?p=/ghreadme">
+
