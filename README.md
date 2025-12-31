@@ -11,7 +11,7 @@
 
 <!-- Stats -->
 <h3> My GitHub Stats!</h3>
-<img alt="Fahad's GitHub Stats" src="https://github-readme-stats-phi-three-26.vercel.app/api?username=FahadH31&hide=stars,issues,contribs&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=Fahad's%20GitHub%20Stats&bg_color=0D1117&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&border_color=FEBF56"/>
+<img alt="Fahad's GitHub Stats" src="https://github-readme-stats-phi-three-26.vercel.app/api?username=FahadH31&hide=stars,issues,contribs&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=true&bg_color=0D1117&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&border_color=FEBF56"/>
 
 <hr>
 
