@@ -22,45 +22,54 @@
 		<td>Repository</td>
 		<td>Link</td>
 	</tr>
+	  <tr>
+    <td>
+			
+[![scheduleAI README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=ScheduleAI&t&bg_color=151B23&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&&hide_border=true)](https://github.com/FahadH31/ScheduleAI)
+    </td>
+    <td align = "center">
+			Coming soon!
+		</td>
+  </tr>
   <tr>
     <td>
 			
-[![photography_portfolio README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=photography_portfolio&t&bg_color=151B23&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&&hide_border=true)](https://github.com/FahadH31/photography_portfolio)
+[![photography_portfolio README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=photography_portfolio&t&bg_color=0D1117&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&&hide_border=true)](https://github.com/FahadH31/photography_portfolio)
     </td>
-    <td>
+    <td align = "center">
 			https://fahadh31.github.io/photography_portfolio
 		</td>
   </tr>
 	<tr>
 		<td>
 			
-[![nba_lineup_predictions README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=nba_lineup_predictions&t&bg_color=0D1117&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/nba_lineup_predictions)			
+[![nba_lineup_predictions README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=nba_lineup_predictions&t&bg_color=151B23&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/nba_lineup_predictions)			
 		</td>
-		<td>N/A</td>
+		<td align = "center">N/A</td>
 	</tr>
 	<tr>
 		<td>
-			[![smart_parking_system README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=smart_parking_system&t&bg_color=151B23&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/smart_parking_system)
+			[![smart_parking_system README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=smart_parking_system&t&bg_color=0D1117&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/smart_parking_system)
 		</td>
-		<td>N/A</td>
+		<td align = "center">N/A</td>
 	</tr>
 	<tr>
 		<td>
-			[![mc_giants README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=mc_giants&t&bg_color=0D1117&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/mc_giants)
+			[![mc_giants README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=mc_giants&t&bg_color=151B23&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/mc_giants)
 		</td>
-		<td>https://www.curseforge.com/minecraft/mc-mods/colossal-giants</td>
+		<td align = "center">https://www.curseforge.com/minecraft/mc-mods/colossal-giants</td>
 	</tr>
 	<tr>
 		<td>
-			[![custom_ai_assistants README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=custom_ai_assistants&t&bg_color=151B23&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/custom_ai_assistants)
+			[![custom_ai_assistants README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=custom_ai_assistants&t&bg_color=0D1117&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/custom_ai_assistants)
 		</td>
-		<td>https://custom-ai-assistants.onrender.com/</td>
+		<td align = "center">https://custom-ai-assistants.onrender.com/</td>
 	</tr>
 	<tr>
 		<td>
-			[![railway_info_system README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=railway_info_system&t&bg_color=0D1117&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/railway_info_system)
+			[![railway_info_system README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=railway_info_system&t&bg_color=151B23&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/railway_info_system)
 		</td>
-		<td>https://railway-information-system.onrender.com/</td>
+		<td align = "center">https://railway-information-system.onrender.com/</td>
 	</tr>
 </table>
 
