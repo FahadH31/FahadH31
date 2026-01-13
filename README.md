@@ -61,17 +61,9 @@
 	</tr>
 	<tr>
 		<td>
-			[![custom_ai_assistants README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=custom_ai_assistants&t&bg_color=0D1117&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/custom_ai_assistants)
-		</td>
-		<td align = "center">https://custom-ai-assistants.onrender.com/</td>
-	</tr>
-	<tr>
-		<td>
-			[![railway_info_system README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=railway_info_system&t&bg_color=151B23&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/railway_info_system)
+			[![railway_info_system README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=railway_info_system&t&bg_color=0D1117&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/railway_info_system)
 		</td>
 		<td align = "center">https://railway-information-system.onrender.com/</td>
 	</tr>
 </table>
-
-![Visitor Count](https://fahadh31.goatcounter.com/count?p=/ghreadme)
 
