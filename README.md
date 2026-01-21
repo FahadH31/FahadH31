@@ -1,7 +1,7 @@
 ## Hi there, I'm Fahad!
 
 <ul> 
-  <li> Entering my last semester at Ontario Tech University, graduating <b>Spring 2026</b>! </li>
+  <li> In my last semester at Ontario Tech University, graduating <b>Spring 2026</b>! </li>
   <li> Building a real estate service focused on AI-powered video analysis for my Capstone project </li>
   <li> Passionate about working on full-stack applications, but especially backend systems </li>
   <li> Feel free to get in touch via email (<a href = "">fahad.hussain2@ontariotechu.net</a>) or message me on <a href = https://www.linkedin.com/in/syedfahadh/>LinkedIn</a>!</li>
