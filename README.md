@@ -2,7 +2,7 @@
 
 <ul> 
   <li> Recently graduated from the Software Engineering program at Ontario Tech University</b>! </li>
-  <li> Built a real estate service focused on AI-powered video analysis for my Capstone project </li>
+  <li> Built an AI-powered real-estate platform focused on video analysis for my Capstone project </li>
   <li> Passionate about working on full-stack applications, but especially backend systems </li>
   <li> Feel free to get in touch via email (<a href = "">fahad.hussain2@ontariotechu.net</a>) or message me on <a href = https://www.linkedin.com/in/syedfahadh/>LinkedIn</a>!</li>
 </ul>
@@ -20,12 +20,21 @@
 <table>
 	<tr>
 		<td>Repository</td>
-		<td>Link</td>
+		<td>Link to Deployment/Video</td>
 	</tr>
-	  <tr>
+	<tr>
     <td>
 			
-[![scheduleAI README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=ScheduleAI&t&bg_color=151B23&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&&hide_border=true)](https://github.com/FahadH31/ScheduleAI)
+[![homeviewai README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=HomeViewAI&t&bg_color=151B23&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&&hide_border=true)](https://github.com/FahadH31/HomeViewAI)
+    </td>
+    <td align = "center">
+			https://www.youtube.com/watch?v=L0z8J1J81X8
+		</td>
+  </tr>
+	<tr>
+    <td>
+			
+[![scheduleAI README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=ScheduleAI&t&bg_color=0D1117&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&&hide_border=true)](https://github.com/FahadH31/ScheduleAI)
     </td>
     <td align = "center">
 			Coming soon!
@@ -34,7 +43,7 @@
   <tr>
     <td>
 			
-[![photography_portfolio README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=photography_portfolio&t&bg_color=0D1117&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&&hide_border=true)](https://github.com/FahadH31/photography_portfolio)
+[![photography_portfolio README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=photography_portfolio&t&bg_color=151B23&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&&hide_border=true)](https://github.com/FahadH31/photography_portfolio)
     </td>
     <td align = "center">
 			https://fahadh31.github.io/photography_portfolio
@@ -43,13 +52,7 @@
 	<tr>
 		<td>
 			
-[![nba_lineup_predictions README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=nba_lineup_predictions&t&bg_color=151B23&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/nba_lineup_predictions)			
-		</td>
-		<td align = "center">N/A</td>
-	</tr>
-	<tr>
-		<td>
-			[![smart_parking_system README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=smart_parking_system&t&bg_color=0D1117&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/smart_parking_system)
+[![nba_lineup_predictions README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=nba_lineup_predictions&t&bg_color=0D1117&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/nba_lineup_predictions)			
 		</td>
 		<td align = "center">N/A</td>
 	</tr>
