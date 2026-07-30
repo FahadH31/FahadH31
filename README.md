@@ -58,7 +58,7 @@
 	</tr>
 	<tr>
 		<td>
-			[![mc_giants README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=mc_giants&t&bg_color=151B23&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/mc_giants)
+			[![mc_giants README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=mc_giants&bg_color=151B23&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&hide_border=true)](https://github.com/FahadH31/mc_giants)
 		</td>
 		<td align = "center">https://www.curseforge.com/minecraft/mc-mods/colossal-giants</td>
 	</tr>
