@@ -37,7 +37,7 @@
 [![scheduleAI README Card](https://github-readme-stats-phi-three-26.vercel.app/api/pin/?username=FahadH31&repo=ScheduleAI&t&bg_color=0D1117&title_color=70BAEA&text_color=FEBF56&icon_color=70BAEA&&hide_border=true)](https://github.com/FahadH31/ScheduleAI)
     </td>
     <td align = "center">
-			Coming soon!
+			https://schedule-ai.ca/
 		</td>
   </tr>
   <tr>
